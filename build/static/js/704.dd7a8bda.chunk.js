@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunke_commerce_template=self.webpackChunke_commerce_template||[]).push([[704],{5704:function(e,t,r){r.r(t);r(2791);var i=r(184);t.default=function(e){return(0,i.jsx)(i.Fragment,{children:(0,i.jsx)("p",{children:"Quilling is the art of rolled, shaped, and glued paper that results in creating a unified, decorative design. The name quilling is thought to come from the origin of the art; birds' feathers, or quills, were used to coil the strips of paper around."})})}}}]);
+//# sourceMappingURL=704.dd7a8bda.chunk.js.map
